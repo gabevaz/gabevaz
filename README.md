@@ -7,6 +7,8 @@
   <a href="https://codepen.io/gab-codes" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
 </div>
 
+##
+
 <ul>
   <li>💻 Dev Front-end desde 2018</li>
   <li>🎓 Formada em Sistemas para Internet na Fiap</li>
